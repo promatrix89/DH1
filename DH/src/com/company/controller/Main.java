@@ -14,7 +14,6 @@ public class Main {
         System.out.println("Ingrese m: ");
         int m=sc.nextInt();
         multiplos(n,m);
-        System.out.println("hola");
     }
     public static void multiplos(int n, int m){
         int i=1;
