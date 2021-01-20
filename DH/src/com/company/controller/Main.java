@@ -1,4 +1,4 @@
-package com.company;
+package com.company.controller;
 
 public class Main {
 
@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
 
     //Mensaje 2
+        System.out.println("hola");
     }
 }
