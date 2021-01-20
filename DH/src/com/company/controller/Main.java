@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Ejercicio 21-01-2020");
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese n: ");
         int n=sc.nextInt();
